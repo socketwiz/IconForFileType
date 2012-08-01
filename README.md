@@ -6,5 +6,6 @@ At any rate, I couldn't find the one I was looking for, so I wrote this little u
 
 **file type**
 ![file type](https://github.com/socketwiz/IconForFileType/raw/master/type.png)
+
 **file on disk**
 ![file on disk](https://github.com/socketwiz/IconForFileType/raw/master/disk.png)
